@@ -2,6 +2,8 @@
 
 ![Screenshot](Screenshot.png)
 
+Demo Link: https://pos-app-demo.vercel.app/ 
+
 A professional, modern, and fully responsive Point of Sale (POS) frontend web application. Built with **React**, **Vite**, and **Tailwind CSS v4**, this application simulates a real-world cashier system with a beautiful user interface and smooth UX.
 
 ## ✨ Features
